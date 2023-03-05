@@ -25,5 +25,3 @@ N/A
 Covered under MIT license, refer to license in repo
 ## Questions
 If you wish to contact me or have additional questions you can reach me at either my [github profile](https://github.com/reverofsuturb) or feel free to email me at [sfriedman6711@gmail.com](mailto:sfriedman6711@gmail.com)
-
-https://watch.screencastify.com/v/ml3moltt3QseXz4vrKpo
