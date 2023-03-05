@@ -98,14 +98,14 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
-## Contributors
+## Contributing
 ${data.contribute}
 ## Tests
 ${data.tests}
 ## License
 Covered under ${data.license}
 ## Questions
-If you wish to contact me you can reach me at either my [github profile](https://github.com/${data.username}) or feel free to email me at [${data.email}](mailto:${data.email})
+If you wish to contact me or have additional questions you can reach me at either my [github profile](https://github.com/${data.username}) or feel free to email me at [${data.email}](mailto:${data.email})
 `,
       (err) => {
         err ? console.log(err) : console.log("README was created");
