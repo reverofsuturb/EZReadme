@@ -11,7 +11,8 @@
 ## Description
 This is a project creating a script to generate a professional looking README in the markdown format. 
 ## Installation
--npm init -y, -npm i inquirer@8.2.4, -npm i
+-npm init -y, -npm i inquirer@8.2.4, -npm i <br>
+Used [node](https://nodejs.org/en/) to run the script
 ## Usage
 Run index.js and answer the questions and it will autoformat everything for you!<br>
 [Here is a video demonstrating the functionality of the script](https://watch.screencastify.com/v/ml3moltt3QseXz4vrKpo)<br>
