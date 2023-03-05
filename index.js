@@ -10,7 +10,7 @@ const lgpl = "![LGPL](https://img.shields.io/badge/license-lgpl__2__1-blue)";
 const gpl = "![GPL](https://img.shields.io/badge/license-GPL-blue)";
 
 inquirer
-  // quests to generate the information needed for the readme
+  // questions to generate the information needed for the readme
   .prompt([
     {
       type: "input",
@@ -67,7 +67,7 @@ inquirer
   ])
   .then((data) => {
     console.log(data);
-    //select correct graphic for license by drawing on the license selected by user
+    //selects correct graphic for license by drawing on the license selected by user
     if (data.license == "Apache license 2.0") var licensegraphic = apache;
     else if (data.license == "MIT License") {
       var licensegraphic = mit;
