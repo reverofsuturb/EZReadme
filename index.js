@@ -80,7 +80,7 @@ inquirer
     }
     // this creates the readme, used template literal with markdown syntax and input data directly from the data collected
     fs.writeFile(
-      "sampleREADME.md",
+      "sample2README.md",
       `
 # ${data.title}
 ${licensegraphic}
@@ -88,7 +88,7 @@ ${licensegraphic}
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
